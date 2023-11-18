@@ -1,0 +1,69 @@
+PODS:
+  - FaceSDKBeta (6.1.1059):
+    - RegulaCommonBeta (= 6.1.101)
+  - Flutter (1.0.0)
+  - flutter_face_api_beta (0.0.69):
+    - FaceSDKBeta (= 6.1.1059)
+    - Flutter
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - integration_test (0.0.1):
+    - Flutter
+  - path_provider_ios (0.0.1):
+    - Flutter
+  - permission_handler_apple (9.0.4):
+    - Flutter
+  - RegulaCommonBeta (6.1.101)
+  - shared_preferences_ios (0.0.1):
+    - Flutter
+  - url_launcher_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_face_api_beta (from `.symlinks/plugins/flutter_face_api_beta/ios`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - path_provider_ios (from `.symlinks/plugins/path_provider_ios/ios`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - shared_preferences_ios (from `.symlinks/plugins/shared_preferences_ios/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+
+SPEC REPOS:
+  trunk:
+    - FaceSDKBeta
+    - RegulaCommonBeta
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_face_api_beta:
+    :path: ".symlinks/plugins/flutter_face_api_beta/ios"
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  path_provider_ios:
+    :path: ".symlinks/plugins/path_provider_ios/ios"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  shared_preferences_ios:
+    :path: ".symlinks/plugins/shared_preferences_ios/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  FaceSDKBeta: 584bb0760cf6d27aa4bc3c405ae63e925bdcc837
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_face_api_beta: 17edc4762db911e04d7b9c7adbd911edb043375c
+  image_picker_ios: b786a5dcf033a8336a657191401bfdf12017dabb
+  integration_test: a1e7d09bd98eca2fc37aefd79d4f41ad37bdbbe5
+  path_provider_ios: 14f3d2fd28c4fdb42f44e0f751d12861c43cee02
+  permission_handler_apple: 44366e37eaf29454a1e7b1b7d736c2cceaeb17ce
+  RegulaCommonBeta: a4f75fe3780832e3ea95fbe0ace58d2b7cbc4135
+  shared_preferences_ios: 548a61f8053b9b8a49ac19c1ffbc8b92c50d68ad
+  url_launcher_ios: 839c58cdb4279282219f5e248c3321761ff3c4de
+
+PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
+
+COCOAPODS: 1.11.3
